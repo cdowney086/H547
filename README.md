@@ -3,3 +3,4 @@
 ### This is my third line
 
 ## I can't wait to write HTML!
+[I'm an inline-style link](https://www.google.com)
